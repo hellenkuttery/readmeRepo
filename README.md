@@ -7,4 +7,4 @@
 
 ![myProfilePhoto](https://cdn.wmaraci.com/nedir/developer.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery)](https://github.com/hellenkuttery/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery)](https://github.com/hellenkuttery/github-readme-stats&theme=radical)
